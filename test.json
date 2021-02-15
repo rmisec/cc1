@@ -1,0 +1,1 @@
+{"version":"<html><script>alert('XSS')</script></html>"}
